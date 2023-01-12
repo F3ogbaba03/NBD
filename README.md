@@ -1,5 +1,5 @@
 # NBD
-Bd all Digit Random cloneing tools...
+Bd  Random cloneing tools...
 
 ____Welcome____
 
